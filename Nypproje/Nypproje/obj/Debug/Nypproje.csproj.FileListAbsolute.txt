@@ -1,0 +1,28 @@
+C:\Users\alpay\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.exe.config
+C:\Users\alpay\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.exe
+C:\Users\alpay\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.pdb
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csprojAssemblyReference.cache
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Form1.resources
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Properties.Resources.resources
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csproj.GenerateResource.cache
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csproj.CoreCompileInputs.cache
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.exe
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.pdb
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.ÜrünForm.resources
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Marketler_ve_Tedarikciler.resources
+C:\Users\alpay\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.ÇalışanForm.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.exe.config
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.exe
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\bin\Debug\Nypproje.pdb
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csprojAssemblyReference.cache
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Form1.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Marketler_ve_Tedarikciler.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.Properties.Resources.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.ÇalışanForm.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.ÜrünForm.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csproj.GenerateResource.cache
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.exe
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.pdb
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.login.resources
+C:\Users\Excalibur G770\source\repos\Nypproje\Nypproje\obj\Debug\Nypproje.müdürindirimformu.resources
